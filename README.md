@@ -1,2 +1,2 @@
 # demo
-my first project
+https://github.com/abdullli/demo.git
